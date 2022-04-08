@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hafiezul
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning on JS and PHP.
+- 🌱 I’m currently learning JS and PHP.
 - 📫 How to reach me hafiezulzikry13@gmail.com
 
 <!---

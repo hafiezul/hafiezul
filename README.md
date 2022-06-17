@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @hafiezul
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JS and PHP.
-- 📫 How to reach me hafiezulzikry13@gmail.com
+Hello, I store most (read: all) of my stupid codes here. 
 
 <!---
 hafiezul/hafiezul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

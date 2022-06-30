@@ -1,4 +1,4 @@
-Hello, I store most (read: all) of my non-existing stupid codes here. 
+Hello, I store most (read: all) of my non-existing codes here. 
 
 <!---
 hafiezul/hafiezul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

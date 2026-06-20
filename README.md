@@ -1,23 +1,81 @@
-# Hey, I'm Hafiezul 👋
+<div align="center">
 
-I build practical tools for AI-assisted development, developer workflows, and macOS.
+# Hafiezul Zikry
 
-Currently exploring:
-- AI coding-agent harnesses, permissions, and autonomy guardrails
-- Pi extensions and `/login` subscription tooling
-- Small macOS utilities with polished, useful UX
+### Building useful tools for AI-assisted development.
 
-## What I care about
+<sub>
+Agent harnesses &nbsp;·&nbsp; Developer tooling &nbsp;·&nbsp; macOS utilities
+</sub>
 
-- Making AI coding tools more controllable, observable, and useful
-- Good developer experience over unnecessary abstraction
-- Shipping small tools that solve real workflow annoyances
-- macOS-native utilities and agent-friendly developer workflows
+<br />
 
-## Support my work
+<a href="https://buymeacoffee.com/YOUR_HANDLE">
+  <img
+    src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000"
+    alt="Buy me a coffee"
+  />
+</a>
 
-If my tools have been useful, you can support me here:  
-[☕ Buy me a coffee]([https://buymeacoffee.com/YOUR_HANDLE](https://buymeacoffee.com/hafiezul))
+</div>
+
+<br />
+
+> I build small, sharp tools around AI coding agents, terminal workflows, and macOS —
+> mostly to make developer annoyances disappear.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### `// building`
+
+* More controllable AI coding-agent workflows
+* Practical Pi extensions and agent utilities
+* Native-feeling macOS tools
+
+    </td>
+    <td width="50%" valign="top">
+
+### `// exploring`
+
+* Agent harnesses and autonomy guardrails
+* Developer experience as a product feature
+* Good defaults, fewer knobs, boring reliability
+
+    </td>
+  </tr>
+
+</table>
+
+<br />
+
+<div align="center">
+
+<sub>
+Selected work lives below ↓
+</sub>
+
+</div>
+
+<br />
+
+---
+
+<div align="center">
+
+<sub>
+Open source is coffee-powered.
+</sub>
+
+<br />
+
+<a href="https://buymeacoffee.com/YOUR_HANDLE">
+  ☕ Support my work
+</a>
+
+</div>
+
 
 <!---
 hafiezul/hafiezul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

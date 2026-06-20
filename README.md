@@ -1,83 +1,19 @@
-<div align="center">
+# Hey, I'm Hafiezul.
 
-# Hafiezul Zikry
+> **I build tools that make AI-assisted development feel less magical and more useful.**
+>
+> `AI coding agents` · `developer workflows` · `macOS utilities`
 
-### Building useful tools for AI-assisted development.
+I like building small, opinionated tools for the awkward edges of developer workflows — especially around coding agents, terminal tooling, and the things that should have been a toggle.
 
-<sub>
-Agent harnesses &nbsp;·&nbsp; Developer tooling &nbsp;·&nbsp; macOS utilities
-</sub>
+Lately, I’ve been experimenting with agent harnesses, autonomy guardrails, Pi extensions, and macOS utilities that do one job well.
 
-<br />
-
-<a href="https://buymeacoffee.com/YOUR_HANDLE">
-  <img
-    src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000"
-    alt="Buy me a coffee"
-  />
-</a>
-
-</div>
-
-<br />
-
-> I build small, sharp tools around AI coding agents, terminal workflows, and macOS —
-> mostly to make developer annoyances disappear.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### `// building`
-
-* More controllable AI coding-agent workflows
-* Practical Pi extensions and agent utilities
-* Native-feeling macOS tools
-
-    </td>
-    <td width="50%" valign="top">
-
-### `// exploring`
-
-* Agent harnesses and autonomy guardrails
-* Developer experience as a product feature
-* Good defaults, fewer knobs, boring reliability
-
-    </td>
-  </tr>
-
-</table>
-
-<br />
-
-<div align="center">
-
-<sub>
-Selected work lives below ↓
-</sub>
-
-</div>
-
-<br />
+Most of what I make lives below.
+The good stuff is pinned. ↓
 
 ---
 
-<div align="center">
-
 <sub>
-Open source is coffee-powered.
+If something I built saved you time or made your workflow slightly less painful, you can
+<a href="https://buymeacoffee.com/hafiezul">buy me a coffee ☕</a>
 </sub>
-
-<br />
-
-<a href="https://buymeacoffee.com/YOUR_HANDLE">
-  ☕ Support my work
-</a>
-
-</div>
-
-
-<!---
-hafiezul/hafiezul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
